@@ -1,0 +1,7 @@
+.Uzduotis5{
+    display: flex;
+    border-bottom: 2px solid black;
+}
+.Uzduotis5 .Card{
+    margin: 10px;
+}

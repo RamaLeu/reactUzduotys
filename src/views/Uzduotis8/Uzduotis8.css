@@ -1,0 +1,23 @@
+.Uzduotis8{
+    border-bottom: 2px solid black;
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    
+}
+.u8Users{
+    display: flex;
+    flex-wrap: wrap;
+}
+.Uzduotis8 img{
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+}
+.u8Card{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 10px;
+}

@@ -1,0 +1,25 @@
+header{
+width: 100%;
+}
+header img{
+width: 50%;
+}
+
+.images{
+    width: 100%;
+    display: flex;
+}
+.images img{
+    width: 50%;
+    border-radius: 100px;
+}
+.boxes{
+    display: flex;
+    border-bottom: 2px solid black;
+}
+.singleBox{
+    width: 100px;
+    background-color: black;
+    height: 100px;
+    margin: 2%;
+}
