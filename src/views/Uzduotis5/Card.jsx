@@ -4,6 +4,7 @@ const Card = (props) => {
     let [status, setStatus] =useState("Mokausi")
   return (
     <div className='Card'>
+        <img src={props.img}></img>
         <h2>{props.title}</h2>
         <h4>{status}</h4>
         <button onClick={()=>{setStatus("Išmokau")}}>OK</button>
